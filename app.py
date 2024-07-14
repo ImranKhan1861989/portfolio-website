@@ -11,7 +11,7 @@ st.set_page_config(page_title="Imran's Portfolio", page_icon=":briefcase:", layo
 
 # Sidebar content
 st.sidebar.title("Imran's Portfolio")
-st.sidebar.image("PXL_20240331_162010550", use_column_width=True)  # Add your profile picture here
+st.sidebar.image("Profiepicture", use_column_width=True)  # Add your profile picture here
 st.sidebar.markdown("""
 Hi, I'm Imran! I'm a scientist specializing in immunology and molecular biology, with extensive experience in implant-induced autoimmune diseases, histochemistry, microscopy, and image acquisition. My career has been focused on achieving significant reductions in project timelines and enhancing diagnostic accuracy and patient outcomes.
 In addition to my scientific expertise, I have a strong passion for integrating science with business and consulting. I have a proven track record in technical and grant writing, content strategy, and biomedical process optimization, where I have successfully reduced failure rates by 70% and ensured FDA compliance. My efforts have contributed to the launch of three error-free medical devices and a 35% growth in sales.
